@@ -1,0 +1,13 @@
+{
+  "name": "jquery-custom",
+  "main": [
+    "dist/jquery.js"
+  ],
+  "version": "0.0.1",
+  "description": "jquery-custom",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!dist/jquery.{min.js,js}"
+  ]
+}
